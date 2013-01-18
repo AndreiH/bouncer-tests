@@ -35,7 +35,7 @@ about our Selenium tests. Mozilla also hosts the #mozillians chat
 room to answer your general questions about contributing to Mozilla. 
 </P>
 <H2 CLASS="western" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in">
-<CODE CLASS="western"><FONT FACE="Thorndale, serif">Running Tests</FONT></CODE></H2>
+<FONT FACE="Thorndale, serif">Running Tests</FONT></H2>
 <H3 CLASS="western">Python</H3>
 <P>Before you will be able to run these tests you will need to have
 Python 2.6(2.6+) installed.</P>
